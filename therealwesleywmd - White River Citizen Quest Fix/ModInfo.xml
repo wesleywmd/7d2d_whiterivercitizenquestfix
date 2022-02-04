@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="White River Citizen Quest Fix" />
+		<Description value="When using a map with little to no plains biome, the white river citizen quest will fail because it requires there to be a trader in the plains to target. This modlet removes this restriction so the quest is playable in other biomes." />
+		<Author value="therealwesleywmd" />
+		<Version value="1.0" />
+	</ModInfo>
+</xml>

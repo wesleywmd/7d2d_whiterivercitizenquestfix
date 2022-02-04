@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<whiterivercitizenquestfix>
+
+    <remove xpath="/quests/quest[@id='quest_whiteRiverCitizen1']/objective/property[@name='biome_filter' or @name='biome_filter_type']"/>
+
+</whiterivercitizenquestfix>
