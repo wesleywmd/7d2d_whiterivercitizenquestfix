@@ -7,10 +7,10 @@ modlet removes this restriction so the quest is playable in other biomes.
 
 Works with Alpha 20. Not tested with previous Alphas but may still work.
 
-#Changelog
+# Changelog
 
 - v1.0 - Initial release
 
-#Contact Information
+# Contact Information
 
 Any comments or problems, please open an issue on this repository and I will try to respond with in a day or two. 
